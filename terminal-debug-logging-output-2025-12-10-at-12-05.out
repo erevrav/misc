@@ -1,0 +1,301 @@
+2025-12-10 12:05:30.316 [trace] [182d276] terminalMultiLineLinkDetector#detect text ["Copyright (c) Microsoft Corporation."]
+2025-12-10 12:05:30.316 [trace] [182d276] terminalLocalLinkDetector#detect text ["Copyright (c) Microsoft Corporation."]
+2025-12-10 12:05:30.316 [trace] [182d276] terminalLocalLinkDetector#detect parsedLinks [[]]
+2025-12-10 12:05:30.317 [trace] [182d276] terminalUriLinkDetector#detect computedLinks [[]]
+2025-12-10 12:05:30.332 [trace] [182d276] terminalUriLinkDetector#detect computedLinks [[]]
+2025-12-10 12:05:30.349 [trace] [182d276] terminalUriLinkDetector#detect computedLinks [[]]
+2025-12-10 12:05:30.366 [trace] [182d276] terminalUriLinkDetector#detect computedLinks [[]]
+2025-12-10 12:05:30.383 [trace] [182d276] terminalUriLinkDetector#detect computedLinks [[]]
+2025-12-10 12:05:30.401 [trace] [182d276] terminalUriLinkDetector#detect computedLinks [[]]
+2025-12-10 12:05:30.416 [trace] [182d276] terminalUriLinkDetector#detect computedLinks [[]]
+2025-12-10 12:05:30.432 [trace] [182d276] terminalUriLinkDetector#detect computedLinks [[]]
+2025-12-10 12:05:30.449 [trace] [182d276] terminalUriLinkDetector#detect computedLinks [[]]
+2025-12-10 12:05:30.833 [trace] [182d276] terminalUriLinkDetector#detect computedLinks [[]]
+2025-12-10 12:05:30.849 [trace] [182d276] terminalUriLinkDetector#detect computedLinks [[]]
+2025-12-10 12:05:30.866 [trace] [182d276] terminalUriLinkDetector#detect computedLinks [[]]
+2025-12-10 12:05:30.882 [trace] [182d276] terminalUriLinkDetector#detect computedLinks [[]]
+2025-12-10 12:05:30.899 [trace] [182d276] terminalUriLinkDetector#detect computedLinks [[]]
+2025-12-10 12:05:31.082 [trace] [182d276] terminalUriLinkDetector#detect computedLinks [[]]
+2025-12-10 12:05:31.099 [trace] [182d276] terminalUriLinkDetector#detect computedLinks [[]]
+2025-12-10 12:05:31.116 [trace] [182d276] terminalUriLinkDetector#detect computedLinks [[]]
+2025-12-10 12:05:31.149 [trace] [182d276] terminalUriLinkDetector#detect computedLinks [[]]
+2025-12-10 12:05:31.183 [trace] [182d276] terminalUriLinkDetector#detect computedLinks [[]]
+2025-12-10 12:05:31.216 [trace] [182d276] terminalUriLinkDetector#detect computedLinks [[]]
+2025-12-10 12:05:31.532 [trace] [182d276] terminalUriLinkDetector#detect computedLinks [[]]
+2025-12-10 12:05:31.566 [trace] [182d276] terminalUriLinkDetector#detect computedLinks [[]]
+2025-12-10 12:05:31.583 [trace] [182d276] terminalMultiLineLinkDetector#detect text ["PS D:\\Users\\erevr\\dev\\slate>"]
+2025-12-10 12:05:31.583 [trace] [182d276] terminalLocalLinkDetector#detect text ["PS D:\\Users\\erevr\\dev\\slate>"]
+2025-12-10 12:05:31.583 [trace] [182d276] terminalLocalLinkDetector#detect parsedLinks [[{"path":{"index":3,"text":"D:\\Users\\erevr\\dev\\slate"}}]]
+2025-12-10 12:05:31.583 [trace] [182d276] terminalLocalLinkDetector#detect linkCandidates [["D:\\Users\\erevr\\dev\\slate"]]
+2025-12-10 12:05:31.584 [trace] [182d276] terminalUriLinkDetector#detect computedLinks [[]]
+2025-12-10 12:05:31.597 [trace] [182d276] terminalLocalLinkDetector#detect verified link [{"text":"D:\\Users\\erevr\\dev\\slate","uri":{"$mid":1,"path":"/D:/Users/erevr/dev/slate","scheme":"file"},"bufferRange":{"start":{"x":4,"y":7},"end":{"x":27,"y":7}},"type":"LocalFolderInWorkspace","parsedLink":{"path":{"index":3,"text":"D:\\Users\\erevr\\dev\\slate"}}}]
+2025-12-10 12:05:31.600 [trace] [182d276] terminalUriLinkDetector#detect computedLinks [[]]
+2025-12-10 12:05:31.632 [trace] [182d276] terminalMultiLineLinkDetector#detect text ["Type 'help' to get help."]
+2025-12-10 12:05:31.632 [trace] [182d276] terminalLocalLinkDetector#detect text ["Type 'help' to get help."]
+2025-12-10 12:05:31.632 [trace] [182d276] terminalLocalLinkDetector#detect parsedLinks [[]]
+2025-12-10 12:05:31.633 [trace] [182d276] terminalUriLinkDetector#detect computedLinks [[]]
+2025-12-10 12:05:31.883 [trace] [182d276] terminalMultiLineLinkDetector#detect text ["https://aka.ms/vscode-powershell"]
+2025-12-10 12:05:31.883 [trace] [182d276] terminalLocalLinkDetector#detect text ["https://aka.ms/vscode-powershell"]
+2025-12-10 12:05:31.883 [trace] [182d276] terminalLocalLinkDetector#detect parsedLinks [[{"path":{"index":7,"text":"/aka.ms/vscode-powershell"}}]]
+2025-12-10 12:05:31.883 [trace] [182d276] terminalLocalLinkDetector#detect linkCandidates [["/aka.ms/vscode-powershell"]]
+2025-12-10 12:05:31.884 [trace] [182d276] terminalUriLinkDetector#detect computedLinks [[{"range":{"startLineNumber":1,"startColumn":1,"endLineNumber":1,"endColumn":33},"url":"https://aka.ms/vscode-powershell"}]]
+2025-12-10 12:05:31.932 [trace] [182d276] terminalUriLinkDetector#detect computedLinks [[]]
+2025-12-10 12:05:32.166 [trace] [182d276] terminalMultiLineLinkDetector#detect text ["Copyright (c) Microsoft Corporation."]
+2025-12-10 12:05:32.166 [trace] [182d276] terminalLocalLinkDetector#detect text ["Copyright (c) Microsoft Corporation."]
+2025-12-10 12:05:32.166 [trace] [182d276] terminalLocalLinkDetector#detect parsedLinks [[]]
+2025-12-10 12:05:32.167 [trace] [182d276] terminalUriLinkDetector#detect computedLinks [[]]
+2025-12-10 12:05:32.232 [trace] [182d276] terminalMultiLineLinkDetector#detect text ["PowerShell Extension v2025.4.0"]
+2025-12-10 12:05:32.232 [trace] [182d276] terminalLocalLinkDetector#detect text ["PowerShell Extension v2025.4.0"]
+2025-12-10 12:05:32.232 [trace] [182d276] terminalLocalLinkDetector#detect parsedLinks [[]]
+2025-12-10 12:05:32.233 [trace] [182d276] terminalUriLinkDetector#detect computedLinks [[]]
+2025-12-10 12:06:05.779 [info] [182d276] RunInTerminalTool#CommandLineFileWriteAnalyzer: File writes detected [[]]
+2025-12-10 12:06:05.779 [info] [182d276] RunInTerminalTool#CommandLineAutoApproveAnalyzer: Parsed sub-commands via powershell grammar [["echo \"Debug log test - December 10, 2025\""]]
+2025-12-10 12:06:05.779 [info] [182d276] RunInTerminalTool#CommandLineAutoApproveAnalyzer: All sub-commands auto-approved [null]
+2025-12-10 12:06:05.779 [info] [182d276] RunInTerminalTool#CommandLineAutoApproveAnalyzer: - Command 'echo "Debug log test - December 10, 2025"' is approved by allow list rule: echo [null]
+2025-12-10 12:06:05.779 [info] [182d276] RunInTerminalTool#CommandLineAutoApproveAnalyzer: - Command line 'echo "Debug log test - December 10, 2025"' has no matching auto approve entries [null]
+2025-12-10 12:06:08.136 [debug] [182d276] RunInTerminalTool: Invoking with options {"command":"echo \"Debug log test - December 10, 2025\"","explanation":"Testing for debug log capture - reproducing run_in_terminal hang","isBackground":false} []
+2025-12-10 12:06:08.137 [debug] [182d276] RunInTerminalTool: Creating foreground terminal. termId=3e104367-2bc7-42ba-ac0b-c403ed2d463f, chatSessionId=ee9b0e8c-8eb3-4a12-acd5-1b86a959bf27 []
+2025-12-10 12:06:08.137 [trace] [182d276] terminalInstance#ctor (instanceId: 9) [{"icon":{"id":"terminal-cmd"},"hideFromUser":true,"forcePersist":true,"env":{"GIT_PAGER":"cat"},"executable":"C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe","args":[],"shellIntegrationEnvironmentReporting":false}]
+2025-12-10 12:06:08.140 [debug] [182d276] terminalInstance added capability [3]
+2025-12-10 12:06:08.301 [debug] [182d276] Terminal process ready (shellProcessId: 59596) []
+2025-12-10 12:06:08.302 [info] [182d276] ToolTerminalCreator#createTerminal: Waiting 4999ms for shell integration []
+2025-12-10 12:06:08.318 [debug] [182d276] parsing data  "[?9001h[?1004h" []
+2025-12-10 12:06:08.318 [trace] [182d276] parsing data (codes) [[27,91,63,57,48,48,49,104,27,91,63,49,48,48,52,104]]
+2025-12-10 12:06:08.318 [debug] [182d276] sending data "[O" []
+2025-12-10 12:06:08.318 [trace] [182d276] sending data (codes) [[27,91,79]]
+2025-12-10 12:06:08.745 [debug] [182d276] parsing data  "[?25l[2J[m[H]0;C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe[?25h]633;P;HasRichCommandDetection=True" []
+2025-12-10 12:06:08.745 [trace] [182d276] parsing data (codes) [[27,91,63,50,53,108,27,91,50,74,27,91,109,27,91,72,27,93,48,59,67,58,92,87,73,78,68,79,87,83,92,83,121,115,116,101,109,51,50,92,87,105,110,100,111,119,115,80,111,119,101,114,83,104,101,108,108,92,118,49,46,48,92,112,111,119,101,114,115,104,101,108,108,46,101,120,101,7,27,91,63,50,53,104,27,93,54,51,51,59,80,59,72,97,115,82,105,99,104,67,111,109,109,97,110,100,68,101,116,101,99,116,105,111,110,61,84,114,117,101,7]]
+2025-12-10 12:06:08.746 [debug] [182d276] terminalInstance added capability [2]
+2025-12-10 12:06:08.746 [info] [182d276] ToolTerminalCreator#_waitForShellIntegration: Rich SI available eventually []
+2025-12-10 12:06:08.747 [info] [182d276] ToolTerminalCreator#_waitForShellIntegration: Promise complete, disposing store []
+2025-12-10 12:06:08.747 [info] [182d276] ToolTerminalCreator#createTerminal: Waiting up to 2s for PromptInputModel state to change []
+2025-12-10 12:06:08.761 [debug] [182d276] parsing data  "]633;P;ContinuationPrompt=>> ]633;P;IsWindows=True" []
+2025-12-10 12:06:08.761 [trace] [182d276] parsing data (codes) [[27,93,54,51,51,59,80,59,67,111,110,116,105,110,117,97,116,105,111,110,80,114,111,109,112,116,61,62,62,32,7,27,93,54,51,51,59,80,59,73,115,87,105,110,100,111,119,115,61,84,114,117,101,7]]
+2025-12-10 12:06:09.368 [debug] [182d276] parsing data  "[38;2;255;255;255m[7m[38;2;16;14;35m[48;2;255;255;255m[27m erevr@road [38;2;255;255;255m[48;2;145;221;255m [38;2;16;14;35mD:  Users  erevr  dev  slate [38;2;145;221;255m[48;2;149;255;164m [38;2;25;53;73mmain ↓2  ?4 [38;2;149;255;164m[49m[38;2;0;122;204m
+❯ " []
+2025-12-10 12:06:09.368 [trace] [182d276] parsing data (codes) [[27,91,51,56,59,50,59,50,53,53,59,50,53,53,59,50,53,53,109,27,91,55,109,57520,27,91,51,56,59,50,59,49,54,59,49,52,59,51,53,109,27,91,52,56,59,50,59,50,53,53,59,50,53,53,59,50,53,53,109,27,91,50,55,109,32,101,114,101,118,114,64,114,111,97,100,32,27,91,51,56,59,50,59,50,53,53,59,50,53,53,59,50,53,53,109,27,91,52,56,59,50,59,49,52,53,59,50,50,49,59,50,53,53,109,57520,32,27,91,51,56,59,50,59,49,54,59,49,52,59,51,53,109,68,58,32,57521,32,85,115,101,114,115,32,57521,32,101,114,101,118,114,32,57521,32,100,101,118,32,57521,32,115,108,97,116,101,32,27,91,51,56,59,50,59,49,52,53,59,50,50,49,59,50,53,53,109,27,91,52,56,59,50,59,49,52,57,59,50,53,53,59,49,54,52,109,57520,32,27,91,51,56,59,50,59,50,53,59,53,51,59,55,51,109,57504,109,97,105,110,32,8595,50,32,61508,32,63,52,32,27,91,51,56,59,50,59,49,52,57,59,50,53,53,59,49,54,52,109,27,91,52,57,109,57520,27,91,51,56,59,50,59,48,59,49,50,50,59,50,48,52,109,13,10,10095,32]]
+2025-12-10 12:06:09.383 [debug] [182d276] parsing data  "[m" []
+2025-12-10 12:06:09.383 [trace] [182d276] parsing data (codes) [[27,91,109]]
+2025-12-10 12:06:10.753 [debug] [182d276] RunInTerminalTool: Associated terminal PID 59596 with session ee9b0e8c-8eb3-4a12-acd5-1b86a959bf27 []
+2025-12-10 12:06:10.774 [debug] [182d276] Unbinding from mouse events. []
+2025-12-10 12:06:10.775 [debug] [182d276] resizing [10,28]
+2025-12-10 12:06:10.782 [debug] [182d276] resizing [178,28]
+2025-12-10 12:06:10.783 [debug] [182d276] resizing [167,26]
+2025-12-10 12:06:10.787 [debug] [182d276] resizing [154,28]
+2025-12-10 12:06:10.787 [debug] [182d276] resizing [145,26]
+2025-12-10 12:06:10.806 [trace] [182d276] Webgl was loaded []
+2025-12-10 12:06:10.809 [debug] [182d276] resizing [154,28]
+2025-12-10 12:06:10.810 [debug] [182d276] RunInTerminalTool: Using `rich` execute strategy for command `echo "Debug log test - December 10, 2025"` []
+2025-12-10 12:06:10.810 [debug] [182d276] RunInTerminalTool#Rich: Waiting for xterm []
+2025-12-10 12:06:10.810 [debug] [182d276] RunInTerminalTool#Rich: Executing command line `echo "Debug log test - December 10, 2025"` []
+2025-12-10 12:06:10.810 [debug] [182d276] RunInTerminalTool#Rich: Waiting for done event []
+2025-12-10 12:06:10.828 [debug] [182d276] parsing data  "[?25l[HPowerShell Extension v2025.4.0[K
+Copyright (c) Microsoft Corporation.[K
+[K
+https://aka.ms/vscode-powershell[K
+Type 'help' to get help.[K
+[K
+PS D:\Users\erevr\dev\slate>[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K[7;30H[?25h" []
+2025-12-10 12:06:10.828 [trace] [182d276] parsing data (codes) [[27,91,63,50,53,108,27,91,72,80,111,119,101,114,83,104,101,108,108,32,69,120,116,101,110,115,105,111,110,32,118,50,48,50,53,46,52,46,48,27,91,75,13,10,67,111,112,121,114,105,103,104,116,32,40,99,41,32,77,105,99,114,111,115,111,102,116,32,67,111,114,112,111,114,97,116,105,111,110,46,27,91,75,13,10,27,91,75,13,10,104,116,116,112,115,58,47,47,97,107,97,46,109,115,47,118,115,99,111,100,101,45,112,111,119,101,114,115,104,101,108,108,27,91,75,13,10,84,121,112,101,32,39,104,101,108,112,39,32,116,111,32,103,101,116,32,104,101,108,112,46,27,91,75,13,10,27,91,75,13,10,80,83,32,68,58,92,85,115,101,114,115,92,101,114,101,118,114,92,100,101,118,92,115,108,97,116,101,62,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,27,91,55,59,51,48,72,27,91,63,50,53,104]]
+2025-12-10 12:06:10.829 [trace] [182d276] PromptInputModel#_sync: | []
+2025-12-10 12:06:10.829 [debug] [182d276] parsing data  "[?25l[8;28;10t[38;2;255;255;255m[7m[H[38;2;16;14;35m[48;2;255;255;255m[27m erevr@road [38;2;255;255;255m[48;2;145;221;255m [38;2;16;14;35mD:  Users  erevr  dev  slate [38;2;145;221;255m[48;2;149;255;164m [38;2;25;53;73mmain ↓2  ?4 [38;2;149;255;164m[49m     [38;2;0;122;204m
+❯[K[m
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K[8;3H[?25h" []
+2025-12-10 12:06:10.829 [trace] [182d276] parsing data (codes) [[27,91,63,50,53,108,27,91,56,59,50,56,59,49,48,116,27,91,51,56,59,50,59,50,53,53,59,50,53,53,59,50,53,53,109,27,91,55,109,27,91,72,57520,27,91,51,56,59,50,59,49,54,59,49,52,59,51,53,109,27,91,52,56,59,50,59,50,53,53,59,50,53,53,59,50,53,53,109,27,91,50,55,109,32,101,114,101,118,114,64,114,111,97,100,32,27,91,51,56,59,50,59,50,53,53,59,50,53,53,59,50,53,53,109,27,91,52,56,59,50,59,49,52,53,59,50,50,49,59,50,53,53,109,57520,32,27,91,51,56,59,50,59,49,54,59,49,52,59,51,53,109,68,58,32,57521,32,85,115,101,114,115,32,57521,32,101,114,101,118,114,32,57521,32,100,101,118,32,57521,32,115,108,97,116,101,32,27,91,51,56,59,50,59,49,52,53,59,50,50,49,59,50,53,53,109,27,91,52,56,59,50,59,49,52,57,59,50,53,53,59,49,54,52,109,57520,32,27,91,51,56,59,50,59,50,53,59,53,51,59,55,51,109,57504,109,97,105,110,32,8595,50,32,61508,32,63,52,32,27,91,51,56,59,50,59,49,52,57,59,50,53,53,59,49,54,52,109,27,91,52,57,109,57520,32,32,32,32,32,27,91,51,56,59,50,59,48,59,49,50,50,59,50,48,52,109,13,10,10095,27,91,75,27,91,109,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,27,91,56,59,51,72,27,91,63,50,53,104]]
+2025-12-10 12:06:10.839 [debug] [182d276] parsing data  "[?25l[HPowerShell Extension v2025.4.0[K
+Copyright (c) Microsoft Corporation.[K
+[K
+https://aka.ms/vscode-powershell[K
+Type 'help' to get help.[K
+[K
+PS D:\Users\erevr\dev\slate>[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K[7;30H[?25h" []
+2025-12-10 12:06:10.839 [trace] [182d276] parsing data (codes) [[27,91,63,50,53,108,27,91,72,80,111,119,101,114,83,104,101,108,108,32,69,120,116,101,110,115,105,111,110,32,118,50,48,50,53,46,52,46,48,27,91,75,13,10,67,111,112,121,114,105,103,104,116,32,40,99,41,32,77,105,99,114,111,115,111,102,116,32,67,111,114,112,111,114,97,116,105,111,110,46,27,91,75,13,10,27,91,75,13,10,104,116,116,112,115,58,47,47,97,107,97,46,109,115,47,118,115,99,111,100,101,45,112,111,119,101,114,115,104,101,108,108,27,91,75,13,10,84,121,112,101,32,39,104,101,108,112,39,32,116,111,32,103,101,116,32,104,101,108,112,46,27,91,75,13,10,27,91,75,13,10,80,83,32,68,58,92,85,115,101,114,115,92,101,114,101,118,114,92,100,101,118,92,115,108,97,116,101,62,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,27,91,55,59,51,48,72,27,91,63,50,53,104]]
+2025-12-10 12:06:10.839 [trace] [182d276] PromptInputModel#_sync: | []
+2025-12-10 12:06:10.839 [debug] [182d276] parsing data  "[?25l[38;2;255;255;255m[7m[H[38;2;16;14;35m[48;2;255;255;255m[27m erevr@road [38;2;255;255;255m[48;2;145;221;255m [38;2;16;14;35mD:  Users  erevr  dev  slate [38;2;145;221;255m[48;2;149;255;164m [38;2;25;53;73mmain ↓2  ?4 [38;2;149;255;164m[49m[K[38;2;0;122;204m
+❯[K[m
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K[2;3H[?25h" []
+2025-12-10 12:06:10.840 [trace] [182d276] parsing data (codes) [[27,91,63,50,53,108,27,91,51,56,59,50,59,50,53,53,59,50,53,53,59,50,53,53,109,27,91,55,109,27,91,72,57520,27,91,51,56,59,50,59,49,54,59,49,52,59,51,53,109,27,91,52,56,59,50,59,50,53,53,59,50,53,53,59,50,53,53,109,27,91,50,55,109,32,101,114,101,118,114,64,114,111,97,100,32,27,91,51,56,59,50,59,50,53,53,59,50,53,53,59,50,53,53,109,27,91,52,56,59,50,59,49,52,53,59,50,50,49,59,50,53,53,109,57520,32,27,91,51,56,59,50,59,49,54,59,49,52,59,51,53,109,68,58,32,57521,32,85,115,101,114,115,32,57521,32,101,114,101,118,114,32,57521,32,100,101,118,32,57521,32,115,108,97,116,101,32,27,91,51,56,59,50,59,49,52,53,59,50,50,49,59,50,53,53,109,27,91,52,56,59,50,59,49,52,57,59,50,53,53,59,49,54,52,109,57520,32,27,91,51,56,59,50,59,50,53,59,53,51,59,55,51,109,57504,109,97,105,110,32,8595,50,32,61508,32,63,52,32,27,91,51,56,59,50,59,49,52,57,59,50,53,53,59,49,54,52,109,27,91,52,57,109,57520,27,91,75,27,91,51,56,59,50,59,48,59,49,50,50,59,50,48,52,109,13,10,10095,27,91,75,27,91,109,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,27,91,50,59,51,72,27,91,63,50,53,104]]
+2025-12-10 12:06:13.315 [debug] [182d276] sending data (vscode) ["echo \"Debug log test - December 10, 2025\"\r"]
+2025-12-10 12:06:13.328 [debug] [182d276] parsing data  "[?25l[93mecho [36m"Debug log test - December 10, 2025"
+[?25h]633;E;echo "Debug log test - December 10, 2025";81fc7a23-2168-4dbc-b286-b9a84929dbb1[m" []
+2025-12-10 12:06:13.328 [trace] [182d276] parsing data (codes) [[27,91,63,50,53,108,27,91,57,51,109,101,99,104,111,32,27,91,51,54,109,34,68,101,98,117,103,32,108,111,103,32,116,101,115,116,32,45,32,68,101,99,101,109,98,101,114,32,49,48,44,32,50,48,50,53,34,13,10,27,91,63,50,53,104,27,93,54,51,51,59,69,59,101,99,104,111,32,34,68,101,98,117,103,32,108,111,103,32,116,101,115,116,32,45,32,68,101,99,101,109,98,101,114,32,49,48,44,32,50,48,50,53,34,59,56,49,102,99,55,97,50,51,45,50,49,54,56,45,52,100,98,99,45,98,50,56,54,45,98,57,97,56,52,57,50,57,100,98,98,49,7,27,91,109]]
+2025-12-10 12:06:13.329 [debug] [182d276] CommandDetectionCapability#setCommandLine ["echo \"Debug log test - December 10, 2025\"",true]
+2025-12-10 12:06:13.329 [trace] [182d276] PromptInputModel#onDidChangeInput ["echo \"Debug log test - December 10, 2025\""]
+2025-12-10 12:06:13.329 [debug] [182d276] parsing data  "]633;C" []
+2025-12-10 12:06:13.330 [trace] [182d276] parsing data (codes) [[27,93,54,51,51,59,67,7]]
+2025-12-10 12:06:13.330 [trace] [182d276] PromptInputModel#onDidFinishInput ["echo \"Debug log test - December 10, 2025\""]
+2025-12-10 12:06:13.330 [trace] [182d276] PromptInputModel#onDidChangeInput ["echo \"Debug log test - December 10, 2025\""]
+2025-12-10 12:06:13.331 [debug] [182d276] CommandDetectionCapability#handleCommandExecuted [0,null]
+2025-12-10 12:06:13.331 [debug] [182d276] parsing data  "" []
+2025-12-10 12:06:13.331 [trace] [182d276] parsing data (codes) [[]]
+2025-12-10 12:06:13.361 [debug] [182d276] parsing data  "Debug log test - December 10, 2025
+" []
+2025-12-10 12:06:13.362 [trace] [182d276] parsing data (codes) [[68,101,98,117,103,32,108,111,103,32,116,101,115,116,32,45,32,68,101,99,101,109,98,101,114,32,49,48,44,32,50,48,50,53,13,10]]
+2025-12-10 12:06:13.454 [debug] [182d276] parsing data  "[38;2;255;255;255m[7m[38;2;16;14;35m[48;2;255;255;255m[27m erevr@road [38;2;255;255;255m[48;2;145;221;255m [38;2;16;14;35mD:  Users  erevr  dev  slate [38;2;145;221;255m[48;2;149;255;164m [38;2;25;53;73mmain ↓2  ?4 [38;2;149;255;164m[49m[38;2;0;122;204m
+❯ " []
+2025-12-10 12:06:13.454 [trace] [182d276] parsing data (codes) [[27,91,51,56,59,50,59,50,53,53,59,50,53,53,59,50,53,53,109,27,91,55,109,57520,27,91,51,56,59,50,59,49,54,59,49,52,59,51,53,109,27,91,52,56,59,50,59,50,53,53,59,50,53,53,59,50,53,53,109,27,91,50,55,109,32,101,114,101,118,114,64,114,111,97,100,32,27,91,51,56,59,50,59,50,53,53,59,50,53,53,59,50,53,53,109,27,91,52,56,59,50,59,49,52,53,59,50,50,49,59,50,53,53,109,57520,32,27,91,51,56,59,50,59,49,54,59,49,52,59,51,53,109,68,58,32,57521,32,85,115,101,114,115,32,57521,32,101,114,101,118,114,32,57521,32,100,101,118,32,57521,32,115,108,97,116,101,32,27,91,51,56,59,50,59,49,52,53,59,50,50,49,59,50,53,53,109,27,91,52,56,59,50,59,49,52,57,59,50,53,53,59,49,54,52,109,57520,32,27,91,51,56,59,50,59,50,53,59,53,51,59,55,51,109,57504,109,97,105,110,32,8595,50,32,61508,32,63,52,32,27,91,51,56,59,50,59,49,52,57,59,50,53,53,59,49,54,52,109,27,91,52,57,109,57520,27,91,51,56,59,50,59,48,59,49,50,50,59,50,48,52,109,13,10,10095,32]]
+2025-12-10 12:06:13.470 [debug] [182d276] parsing data  "[m" []
+2025-12-10 12:06:13.470 [trace] [182d276] parsing data (codes) [[27,91,109]]
+2025-12-10 12:06:20.169 [trace] [182d276] terminalUriLinkDetector#detect computedLinks [[]]
+2025-12-10 12:06:20.183 [trace] [182d276] terminalUriLinkDetector#detect computedLinks [[]]
+2025-12-10 12:06:20.199 [trace] [182d276] terminalUriLinkDetector#detect computedLinks [[]]
+2025-12-10 12:06:20.216 [trace] [182d276] terminalUriLinkDetector#detect computedLinks [[]]
+2025-12-10 12:06:20.232 [trace] [182d276] terminalUriLinkDetector#detect computedLinks [[]]
+2025-12-10 12:06:20.266 [trace] [182d276] terminalUriLinkDetector#detect computedLinks [[]]
+2025-12-10 12:06:20.299 [trace] [182d276] terminalUriLinkDetector#detect computedLinks [[]]
+2025-12-10 12:06:20.317 [trace] [182d276] terminalMultiLineLinkDetector#detect text ["❯ "]
+2025-12-10 12:06:20.317 [trace] [182d276] terminalLocalLinkDetector#detect text ["❯ "]
+2025-12-10 12:06:20.317 [trace] [182d276] terminalLocalLinkDetector#detect parsedLinks [[]]
+2025-12-10 12:06:20.317 [trace] [182d276] terminalUriLinkDetector#detect computedLinks [[]]
+2025-12-10 12:06:20.333 [trace] [182d276] terminalMultiLineLinkDetector#detect text [" erevr@road  D:  Users  erevr  dev  slate  main ↓2  ?4 "]
+2025-12-10 12:06:20.333 [trace] [182d276] terminalLocalLinkDetector#detect text [" erevr@road  D:  Users  erevr  dev  slate  main ↓2  ?4 "]
+2025-12-10 12:06:20.333 [trace] [182d276] terminalLocalLinkDetector#detect parsedLinks [[]]
+2025-12-10 12:06:20.333 [trace] [182d276] terminalUriLinkDetector#detect computedLinks [[]]
+2025-12-10 12:06:20.383 [trace] [182d276] terminalMultiLineLinkDetector#detect text ["Debug log test - December 10, 2025"]
+2025-12-10 12:06:20.383 [trace] [182d276] terminalLocalLinkDetector#detect text ["Debug log test - December 10, 2025"]
+2025-12-10 12:06:20.383 [trace] [182d276] terminalLocalLinkDetector#detect parsedLinks [[{"path":{"index":17,"text":"December"},"suffix":{"row":10,"suffix":{"index":25,"text":" 10"}}},{"path":{"index":26,"text":"10"},"suffix":{"row":2025,"suffix":{"index":28,"text":", 2025"}}}]]
+2025-12-10 12:06:20.383 [trace] [182d276] terminalLinkHelpers#updateLinkWithRelativeCwd cwd [null]
+2025-12-10 12:06:20.383 [trace] [182d276] terminalLocalLinkDetector#detect linkCandidates [["December"]]
+2025-12-10 12:06:20.383 [trace] [182d276] terminalUriLinkDetector#detect computedLinks [[]]
+2025-12-10 12:06:20.384 [trace] [182d276] terminalLinkHelpers#updateLinkWithRelativeCwd cwd [null]
+2025-12-10 12:06:20.384 [trace] [182d276] terminalLocalLinkDetector#detect linkCandidates [["10"]]
+2025-12-10 12:06:20.400 [trace] [182d276] terminalMultiLineLinkDetector#detect text ["❯ echo \"Debug log test - December 10, 2025\""]
+2025-12-10 12:06:20.400 [trace] [182d276] terminalLocalLinkDetector#detect text ["❯ echo \"Debug log test - December 10, 2025\""]
+2025-12-10 12:06:20.400 [trace] [182d276] terminalLocalLinkDetector#detect parsedLinks [[{"path":{"index":25,"text":"December"},"suffix":{"row":10,"suffix":{"index":33,"text":" 10"}}},{"path":{"index":34,"text":"10"},"suffix":{"row":2025,"suffix":{"index":36,"text":", 2025"}}}]]
+2025-12-10 12:06:20.400 [trace] [182d276] terminalLinkHelpers#updateLinkWithRelativeCwd cwd [null]
+2025-12-10 12:06:20.400 [trace] [182d276] terminalLocalLinkDetector#detect linkCandidates [["December"]]
+2025-12-10 12:06:20.400 [trace] [182d276] terminalUriLinkDetector#detect computedLinks [[]]
+2025-12-10 12:06:20.400 [trace] [182d276] terminalLinkHelpers#updateLinkWithRelativeCwd cwd [null]
+2025-12-10 12:06:20.400 [trace] [182d276] terminalLocalLinkDetector#detect linkCandidates [["10"]]
+2025-12-10 12:06:20.416 [trace] [182d276] terminalMultiLineLinkDetector#detect text [" erevr@road  D:  Users  erevr  dev  slate  main ↓2  ?4 "]
+2025-12-10 12:06:20.416 [trace] [182d276] terminalLocalLinkDetector#detect text [" erevr@road  D:  Users  erevr  dev  slate  main ↓2  ?4 "]
+2025-12-10 12:06:20.416 [trace] [182d276] terminalLocalLinkDetector#detect parsedLinks [[]]
+2025-12-10 12:06:20.416 [trace] [182d276] terminalUriLinkDetector#detect computedLinks [[]]
+2025-12-10 12:06:23.637 [debug] [182d276] RunInTerminalTool#Rich: onDone via cancellation []
+2025-12-10 12:06:23.637 [debug] [182d276] RunInTerminalTool: Threw exception []
+2025-12-10 12:06:23.637 [trace] [182d276] terminalInstance#dispose (instanceId: 9) []
+2025-12-10 12:06:23.639 [debug] [182d276] RunInTerminalTool: Removed terminal association for PID 59596 []
+2025-12-10 12:06:23.645 [debug] [182d276] resizing [184,28]
+2025-12-10 12:06:23.645 [debug] [182d276] resizing [184,28]
+2025-12-10 12:06:23.646 [debug] [182d276] resizing [184,28]
+2025-12-10 12:06:23.649 [debug] [182d276] resizing [184,28]
+2025-12-10 12:06:23.650 [debug] [182d276] resizing [184,28]
+2025-12-10 12:06:23.651 [debug] [182d276] resizing [184,28]
+2025-12-10 12:06:23.651 [debug] [182d276] resizing [184,28]
+2025-12-10 12:06:23.652 [debug] [182d276] Terminal process exit ["instanceId",9,"code",null,"processState",5]
+2025-12-10 12:06:23.753 [debug] [182d276] parsing data  "[?25l[HPowerShell Extension v2025.4.0[K
+Copyright (c) Microsoft Corporation.[K
+[K
+https://aka.ms/vscode-powershell[K
+Type 'help' to get help.[K
+[K
+PS D:\Users\erevr\dev\slate>[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K[7;30H[?25h" []
+2025-12-10 12:06:23.753 [trace] [182d276] parsing data (codes) [[27,91,63,50,53,108,27,91,72,80,111,119,101,114,83,104,101,108,108,32,69,120,116,101,110,115,105,111,110,32,118,50,48,50,53,46,52,46,48,27,91,75,13,10,67,111,112,121,114,105,103,104,116,32,40,99,41,32,77,105,99,114,111,115,111,102,116,32,67,111,114,112,111,114,97,116,105,111,110,46,27,91,75,13,10,27,91,75,13,10,104,116,116,112,115,58,47,47,97,107,97,46,109,115,47,118,115,99,111,100,101,45,112,111,119,101,114,115,104,101,108,108,27,91,75,13,10,84,121,112,101,32,39,104,101,108,112,39,32,116,111,32,103,101,116,32,104,101,108,112,46,27,91,75,13,10,27,91,75,13,10,80,83,32,68,58,92,85,115,101,114,115,92,101,114,101,118,114,92,100,101,118,92,115,108,97,116,101,62,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,13,10,27,91,75,27,91,55,59,51,48,72,27,91,63,50,53,104]]
+2025-12-10 12:06:23.754 [trace] [182d276] PromptInputModel#_sync: | []
