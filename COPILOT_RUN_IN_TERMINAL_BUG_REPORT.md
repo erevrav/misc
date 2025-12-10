@@ -146,7 +146,7 @@ Based on https://github.com/orgs/community/discussions/161238, tested whether ri
 - ❌ Only `run_in_terminal` tool is broken
 
 ## Historical Context
-- User reports `run_in_terminal` worked in VS Code Insiders ~2 years ago
+- User reports `run_in_terminal` worked in VS Code Insiders as recently as 3 weeks ago
 - Issue appears to be a recent regression
 - Affects both Stable and Insiders builds currently
 - Similar issues reported by other users: https://github.com/orgs/community/discussions/161238
